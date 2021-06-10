@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>user1 &#8211; My WordPress</title>
-	<atom:link href="http://localhost/myproject/wordpress/author/user1/feed/" rel="self" type="application/rss+xml" />
+	<title>test2212 &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/category/test2212/feed/" rel="self" type="application/rss+xml" />
 	<link>https://quoctoan0810.github.io/QuocToann</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Tue, 08 Jun 2021 07:00:01 +0000</lastBuildDate>

@@ -2,7 +2,7 @@
 <html lang="vi">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Đăng nhập &lsaquo; My Wordpress &#8212; WordPress</title>
+	<title>Đăng nhập &lsaquo; Chó Sói  &#8212; WordPress</title>
 	<meta name="robots" content="noindex, nofollow, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="stylesheet" id="dashicons-css" href="https://quoctoan0810.github.io/QuocToann/wp-includes/css/dashicons.min.css?ver=5.7.2" media="all">
@@ -51,7 +51,7 @@
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog">
-			<a href="https://quoctoan0810.github.io/QuocToann/">&larr; Quay lại My Wordpress</a>		</p>
+			<a href="https://quoctoan0810.github.io/QuocToann/">&larr; Quay lại Chó Sói </a>		</p>
 			</div>
 	<script src="https://quoctoan0810.github.io/QuocToann/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" id="jquery-core-js"></script>
 <script src="https://quoctoan0810.github.io/QuocToann/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>

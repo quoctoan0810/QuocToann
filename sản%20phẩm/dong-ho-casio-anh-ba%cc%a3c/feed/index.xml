@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Bình luận cho Đồng Hồ	</title>
-	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://quoctoan0810.github.io/QuocToann</link>
+	Các phản hồi luận về: Đồng Hồ Casio Ánh Bạc	</title>
+	<atom:link href="http://localhost/myproject/wordpress/s%E1%BA%A3n%20ph%E1%BA%A9m/dong-ho-casio-anh-ba%CC%A3c/feed/" rel="self" type="application/rss+xml" />
+	<link>https://quoctoan0810.github.io/QuocToann/sản%20phẩm/dong-ho-casio-anh-ba%cc%a3c/</link>
 	<description>SHOP</description>
-	<lastBuildDate>Tue, 15 Jun 2021 07:56:55 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 15 Jun 2021 07:56:50 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

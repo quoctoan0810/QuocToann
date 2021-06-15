@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Bình luận cho Đồng Hồ	</title>
-	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://quoctoan0810.github.io/QuocToann</link>
+	Các phản hồi luận về: Đồng hồ Casio Edifice	</title>
+	<atom:link href="http://localhost/myproject/wordpress/s%E1%BA%A3n%20ph%E1%BA%A9m/dong-ho/feed/" rel="self" type="application/rss+xml" />
+	<link>https://quoctoan0810.github.io/QuocToann/sản%20phẩm/dong-ho/</link>
 	<description>SHOP</description>
 	<lastBuildDate>Tue, 15 Jun 2021 07:56:55 +0000</lastBuildDate>
 	<sy:updatePeriod>

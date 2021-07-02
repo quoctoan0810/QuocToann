@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/dong-ho-casio/feed/" rel="self" type="application/rss+xml" />
 	<link>https://quoctoan0810.github.io/QuocToann</link>
 	<description>SHOP</description>
-	<lastBuildDate>Fri, 02 Jul 2021 08:34:48 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 02 Jul 2021 09:15:13 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,91 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
+		<title>Đồng hồ Casio Edfic</title>
+		<link>https://quoctoan0810.github.io/QuocToann/product/dong-ho-casio-edfic/</link>
+					<comments>https://quoctoan0810.github.io/QuocToann/product/dong-ho-casio-edfic/#respond</comments>
+		
+		<dc:creator><![CDATA[Nguyễn Quốc Toàn]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2021 09:15:07 +0000</pubDate>
+				<guid isPermaLink="false">https://quoctoan0810.github.io/QuocToann/?post_type=product&#038;p=238</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://quoctoan0810.github.io/QuocToann/product/dong-ho-casio-edfic/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Đồng hồ Casio JKL</title>
+		<link>https://quoctoan0810.github.io/QuocToann/product/dong-ho-casio-jkl/</link>
+					<comments>https://quoctoan0810.github.io/QuocToann/product/dong-ho-casio-jkl/#respond</comments>
+		
+		<dc:creator><![CDATA[Nguyễn Quốc Toàn]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2021 09:13:48 +0000</pubDate>
+				<guid isPermaLink="false">https://quoctoan0810.github.io/QuocToann/?post_type=product&#038;p=236</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://quoctoan0810.github.io/QuocToann/product/dong-ho-casio-jkl/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Đồng hồ Casio JiK</title>
+		<link>https://quoctoan0810.github.io/QuocToann/product/dong-ho-casio-jik/</link>
+					<comments>https://quoctoan0810.github.io/QuocToann/product/dong-ho-casio-jik/#respond</comments>
+		
+		<dc:creator><![CDATA[Nguyễn Quốc Toàn]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2021 09:11:29 +0000</pubDate>
+				<guid isPermaLink="false">https://quoctoan0810.github.io/QuocToann/?post_type=product&#038;p=233</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://quoctoan0810.github.io/QuocToann/product/dong-ho-casio-jik/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Đồng hồ Casio G-Shock</title>
+		<link>https://quoctoan0810.github.io/QuocToann/product/dong-ho-casio-g-shock-2/</link>
+					<comments>https://quoctoan0810.github.io/QuocToann/product/dong-ho-casio-g-shock-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Nguyễn Quốc Toàn]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2021 09:08:17 +0000</pubDate>
+				<guid isPermaLink="false">https://quoctoan0810.github.io/QuocToann/?post_type=product&#038;p=231</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://quoctoan0810.github.io/QuocToann/product/dong-ho-casio-g-shock-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Đồng hồ Casio GA</title>
+		<link>https://quoctoan0810.github.io/QuocToann/product/dong-ho-casio-ga/</link>
+					<comments>https://quoctoan0810.github.io/QuocToann/product/dong-ho-casio-ga/#respond</comments>
+		
+		<dc:creator><![CDATA[Nguyễn Quốc Toàn]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2021 09:06:07 +0000</pubDate>
+				<guid isPermaLink="false">https://quoctoan0810.github.io/QuocToann/?post_type=product&#038;p=228</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://quoctoan0810.github.io/QuocToann/product/dong-ho-casio-ga/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Đồng hồ Casio JK</title>
 		<link>https://quoctoan0810.github.io/QuocToann/product/dong-ho-casio-jk/</link>
 					<comments>https://quoctoan0810.github.io/QuocToann/product/dong-ho-casio-jk/#respond</comments>
@@ -102,42 +187,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://quoctoan0810.github.io/QuocToann/product/dong-ho-casio-anh-ba%cc%a3c/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Đồng Hồ Casio G-shock</title>
-		<link>https://quoctoan0810.github.io/QuocToann/product/dong-ho-casio-g-shock/</link>
-					<comments>https://quoctoan0810.github.io/QuocToann/product/dong-ho-casio-g-shock/#respond</comments>
-		
-		<dc:creator><![CDATA[Nguyễn Quốc Toàn]]></dc:creator>
-		<pubDate>Tue, 15 Jun 2021 07:06:00 +0000</pubDate>
-				<guid isPermaLink="false">https://quoctoan0810.github.io/QuocToann/?post_type=product&#038;p=155</guid>
-
-					<description><![CDATA[<em><strong>Đồng hồ Casio Edifice dây da là một trong những chiếc đồng hồ được săn đón hàng đầu hiên nay. Với vẻ đẹp hiện đại, năng động cùng nhiều ứng dụng sát thực tiễn, dòng đồng hồ Casio edifice là nơi mọi người hướng đến và chinh phục.</strong></em>]]></description>
-										<content:encoded><![CDATA[<p><em><strong>Đồng hồ Casio Edifice dây da là một trong những chiếc đồng hồ được săn đón hàng đầu hiên nay. Với vẻ đẹp hiện đại, năng động cùng nhiều ứng dụng sát thực tiễn, dòng đồng hồ Casio edifice là nơi mọi người hướng đến và chinh phục.</strong></em></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://quoctoan0810.github.io/QuocToann/product/dong-ho-casio-g-shock/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Đồng hồ Casio Edifice</title>
-		<link>https://quoctoan0810.github.io/QuocToann/product/dong-ho/</link>
-					<comments>https://quoctoan0810.github.io/QuocToann/product/dong-ho/#respond</comments>
-		
-		<dc:creator><![CDATA[Nguyễn Quốc Toàn]]></dc:creator>
-		<pubDate>Tue, 15 Jun 2021 01:51:32 +0000</pubDate>
-				<guid isPermaLink="false">https://quoctoan0810.github.io/QuocToann/?post_type=product&#038;p=124</guid>
-
-					<description><![CDATA[<em><strong>Đồng hồ Casio Edifice dây da là một trong những chiếc đồng hồ được săn đón hàng đầu hiên nay. Với vẻ đẹp hiện đại, năng động cùng nhiều ứng dụng sát thực tiễn, dòng đồng hồ Casio edifice là nơi mọi người hướng đến và chinh phục.</strong></em>]]></description>
-										<content:encoded><![CDATA[<p><em><strong>Đồng hồ Casio Edifice dây da là một trong những chiếc đồng hồ được săn đón hàng đầu hiên nay. Với vẻ đẹp hiện đại, năng động cùng nhiều ứng dụng sát thực tiễn, dòng đồng hồ Casio edifice là nơi mọi người hướng đến và chinh phục.</strong></em></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://quoctoan0810.github.io/QuocToann/product/dong-ho/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

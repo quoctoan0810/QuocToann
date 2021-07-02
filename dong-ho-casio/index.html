@@ -57,17 +57,17 @@ img.emoji {
 				.wp-block-quote footer,
 				.wp-block-quote cite,
 				.wp-block-quote__citation {
-					color: #ffffff;
+					color: #aaaaaa;
 				}
 
 				.wp-block-pullquote cite,
 				.wp-block-pullquote footer,
 				.wp-block-pullquote__citation {
-					color: #ffffff;
+					color: #aaaaaa;
 				}
 
 				.wp-block-image figcaption {
-					color: #ffffff;
+					color: #aaaaaa;
 				}
 
 				.wp-block-separator.is-style-dots::before {
@@ -89,7 +89,7 @@ img.emoji {
 
 				.wp-block-code,
 				.wp-block-preformatted pre {
-					color: #ffffff;
+					color: #aaaaaa;
 				}
 
 				.wp-block-table:not( .has-background ):not( .is-style-stripes ) tbody tr:nth-child(2n) td {
@@ -144,9 +144,9 @@ img.emoji {
 
 				.wc-block-components-order-summary-item__quantity {
 					background-color: #0a0a0a;
-					border-color: #ffffff;
+					border-color: #aaaaaa;
 					box-shadow: 0 0 0 2px #0a0a0a;
-					color: #ffffff;
+					color: #aaaaaa;
 				}</style>
 <style id="woocommerce-inline-inline-css">.woocommerce form .form-row .required { visibility: visible; }</style>
 <link rel="stylesheet" id="storefront-style-css" href="https://quoctoan0810.github.io/QuocToann/wp-content/themes/storefront/style.css?ver=3.7.0" media="all">
@@ -220,7 +220,7 @@ img.emoji {
 
 			body,
 			.secondary-navigation a {
-				color: #ffffff;
+				color: #aaaaaa;
 			}
 
 			.widget-area .widget a,
@@ -228,7 +228,7 @@ img.emoji {
 			.hentry .entry-header .post-author a,
 			.hentry .entry-header .post-comments a,
 			.hentry .entry-header .byline a {
-				color: #ffffff;
+				color: #afafaf;
 			}
 
 			a {
@@ -277,7 +277,7 @@ img.emoji {
 
 			.pagination .page-numbers li .page-numbers.current {
 				background-color: #000000;
-				color: #f5f5f5;
+				color: #a0a0a0;
 			}
 
 			#comments .comment-list .comment-content .comment-text {
@@ -381,18 +381,18 @@ img.emoji {
 			.wc-block-grid__product-onsale,
 			.widget_search form:before,
 			.widget_product_search form:before {
-				color: #ffffff;
+				color: #aaaaaa;
 			}
 
 			.woocommerce-breadcrumb a,
 			a.woocommerce-review-link,
 			.product_meta a {
-				color: #ffffff;
+				color: #afafaf;
 			}
 
 			.wc-block-grid__product-onsale,
 			.onsale {
-				border-color: #ffffff;
+				border-color: #aaaaaa;
 			}
 
 			.star-rating span:before,
@@ -441,19 +441,19 @@ img.emoji {
 
 			.woocommerce-pagination .page-numbers li .page-numbers.current {
 				background-color: #000000;
-				color: #f5f5f5;
+				color: #a0a0a0;
 			}
 
 			.wc-block-grid__product-onsale,
 			.onsale,
 			.woocommerce-pagination .page-numbers li .page-numbers:not(.current) {
-				color: #ffffff;
+				color: #aaaaaa;
 			}
 
 			p.stars a:before,
 			p.stars a:hover~a:before,
 			p.stars.selected a.active~a:before {
-				color: #ffffff;
+				color: #aaaaaa;
 			}
 
 			p.stars.selected a.active:before,
@@ -535,11 +535,11 @@ img.emoji {
 				}
 			}
 				.storefront-product-pagination a {
-					color: #ffffff;
+					color: #aaaaaa;
 					background-color: #0a0a0a;
 				}
 				.storefront-sticky-add-to-cart {
-					color: #ffffff;
+					color: #aaaaaa;
 					background-color: #0a0a0a;
 				}
 
@@ -760,11 +760,12 @@ img.emoji {
 
 <div id="secondary" class="widget-area" role="complementary">
 	<div id="woocommerce_product_categories-3" class="widget woocommerce widget_product_categories">
-<span class="gamma widget-title">Danh mục sản phẩm</span><ul class="product-categories">
-<li class="cat-item cat-item-19"><a href="https://quoctoan0810.github.io/QuocToann/danh-muc-san-pham/dong-ho-casio/">đồng hồ casio</a></li>
-<li class="cat-item cat-item-23"><a href="https://quoctoan0810.github.io/QuocToann/danh-muc-san-pham/dong-ho-nu%cc%83/">Đồng hồ nữ</a></li>
-<li class="cat-item cat-item-20"><a href="https://quoctoan0810.github.io/QuocToann/danh-muc-san-pham/dong-ho-rolex/">Đồng hồ Rolex</a></li>
-</ul>
+<span class="gamma widget-title">Danh mục sản phẩm</span><select name="product_cat" id="product_cat" class="dropdown_product_cat">
+	<option value="" selected>Chọn danh mục</option>
+	<option class="level-0" value="dong-ho-casio">đồng hồ casio&nbsp;&nbsp;(12)</option>
+	<option class="level-0" value="dong-ho-nu%cc%83">Đồng hồ nữ&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="dong-ho-rolex">Đồng hồ Rolex&nbsp;&nbsp;(1)</option>
+</select>
 </div>
 		<div id="recent-posts-2" class="widget widget_recent_entries">
 		<span class="gamma widget-title">Bài viết mới</span>
@@ -832,7 +833,8 @@ img.emoji {
 			document.body.className = c;
 		})();
 	</script>
-	<script src="https://quoctoan0810.github.io/QuocToann/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70" id="jquery-blockui-js"></script>
+	<link rel="stylesheet" id="select2-css" href="https://quoctoan0810.github.io/QuocToann/wp-content/plugins/woocommerce/assets/css/select2.css?ver=5.3.0" media="all">
+<script src="https://quoctoan0810.github.io/QuocToann/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70" id="jquery-blockui-js"></script>
 <script id="wc-add-to-cart-js-extra">
 var wc_add_to_cart_params = {"ajax_url":"\/myproject\/wordpress\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/myproject\/wordpress\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Xem giỏ hàng","cart_url":"https:\/\/quoctoan0810.github.io\/QuocToann\/gio-hang\/","is_cart":"","cart_redirect_after_add":"yes"};
 </script>
@@ -851,6 +853,45 @@ var wc_cart_fragments_params = {"ajax_url":"\/myproject\/wordpress\/wp-admin\/ad
 <script src="https://quoctoan0810.github.io/QuocToann/wp-content/themes/storefront/assets/js/woocommerce/header-cart.min.js?ver=3.7.0" id="storefront-header-cart-js"></script>
 <script src="https://quoctoan0810.github.io/QuocToann/wp-content/themes/storefront/assets/js/footer.min.js?ver=3.7.0" id="storefront-handheld-footer-bar-js"></script>
 <script src="https://quoctoan0810.github.io/QuocToann/wp-includes/js/wp-embed.min.js?ver=5.7.2" id="wp-embed-js"></script>
+<script src="https://quoctoan0810.github.io/QuocToann/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.6" id="selectWoo-js"></script>
+<!-- WooCommerce JavaScript -->
+<script type="text/javascript">
+jQuery(function($) { 
+
+				jQuery( '.dropdown_product_cat' ).change( function() {
+					if ( jQuery(this).val() != '' ) {
+						var this_page = '';
+						var home_url  = 'https://quoctoan0810.github.io/QuocToann/';
+						if ( home_url.indexOf( '?' ) > 0 ) {
+							this_page = home_url + '&product_cat=' + jQuery(this).val();
+						} else {
+							this_page = home_url + '?product_cat=' + jQuery(this).val();
+						}
+						location.href = this_page;
+					} else {
+						location.href = 'https://quoctoan0810.github.io/QuocToann/cua-hang/';
+					}
+				});
+
+				if ( jQuery().selectWoo ) {
+					var wc_product_cat_select = function() {
+						jQuery( '.dropdown_product_cat' ).selectWoo( {
+							placeholder: 'Chọn danh mục',
+							minimumResultsForSearch: 5,
+							width: '100%',
+							allowClear: true,
+							language: {
+								noResults: function() {
+									return 'Không tìm thấy kết quả phù hợp';
+								}
+							}
+						} );
+					};
+					wc_product_cat_select();
+				}
+			
+ });
+</script>
 
 </body>
 </html>

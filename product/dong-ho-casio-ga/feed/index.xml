@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Bình luận cho Đồng Hồ	</title>
-	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://quoctoan0810.github.io/QuocToann</link>
+	Các phản hồi luận về: Đồng hồ Casio GA	</title>
+	<atom:link href="http://localhost/myproject/wordpress/product/dong-ho-casio-ga/feed/" rel="self" type="application/rss+xml" />
+	<link>https://quoctoan0810.github.io/QuocToann/product/dong-ho-casio-ga/</link>
 	<description>SHOP</description>
-	<lastBuildDate>Fri, 02 Jul 2021 09:15:13 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 02 Jul 2021 09:09:37 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

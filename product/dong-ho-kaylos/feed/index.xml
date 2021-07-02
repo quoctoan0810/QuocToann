@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Bình luận cho Đồng Hồ	</title>
-	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://quoctoan0810.github.io/QuocToann</link>
+	Các phản hồi luận về: Đồng hồ Kaylos	</title>
+	<atom:link href="http://localhost/myproject/wordpress/product/dong-ho-kaylos/feed/" rel="self" type="application/rss+xml" />
+	<link>https://quoctoan0810.github.io/QuocToann/product/dong-ho-kaylos/</link>
 	<description>SHOP</description>
 	<lastBuildDate>Fri, 02 Jul 2021 08:54:41 +0000</lastBuildDate>
 	<sy:updatePeriod>

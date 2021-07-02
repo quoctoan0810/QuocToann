@@ -837,12 +837,11 @@ img.emoji {
 
 <div id="secondary" class="widget-area" role="complementary">
 	<div id="woocommerce_product_categories-3" class="widget woocommerce widget_product_categories">
-<span class="gamma widget-title">Danh mục sản phẩm</span><select name="product_cat" id="product_cat" class="dropdown_product_cat">
-	<option value="" selected>Chọn danh mục</option>
-	<option class="level-0" value="dong-ho-casio">đồng hồ casio&nbsp;&nbsp;(12)</option>
-	<option class="level-0" value="dong-ho-nu%cc%83">Đồng hồ nữ&nbsp;&nbsp;(1)</option>
-	<option class="level-0" value="dong-ho-rolex">Đồng hồ Rolex&nbsp;&nbsp;(1)</option>
-</select>
+<span class="gamma widget-title">Danh mục sản phẩm</span><ul class="product-categories">
+<li class="cat-item cat-item-19"><a href="https://quoctoan0810.github.io/QuocToann/danh-muc-san-pham/dong-ho-casio/">đồng hồ casio</a></li>
+<li class="cat-item cat-item-23"><a href="https://quoctoan0810.github.io/QuocToann/danh-muc-san-pham/dong-ho-nu%cc%83/">Đồng hồ nữ</a></li>
+<li class="cat-item cat-item-20"><a href="https://quoctoan0810.github.io/QuocToann/danh-muc-san-pham/dong-ho-rolex/">Đồng hồ Rolex</a></li>
+</ul>
 </div>
 		<div id="recent-posts-2" class="widget widget_recent_entries">
 		<span class="gamma widget-title">Bài viết mới</span>
@@ -910,8 +909,7 @@ img.emoji {
 			document.body.className = c;
 		})();
 	</script>
-	<link rel="stylesheet" id="select2-css" href="https://quoctoan0810.github.io/QuocToann/wp-content/plugins/woocommerce/assets/css/select2.css?ver=5.3.0" media="all">
-<script src="https://quoctoan0810.github.io/QuocToann/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70" id="jquery-blockui-js"></script>
+	<script src="https://quoctoan0810.github.io/QuocToann/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70" id="jquery-blockui-js"></script>
 <script id="wc-add-to-cart-js-extra">
 var wc_add_to_cart_params = {"ajax_url":"\/myproject\/wordpress\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/myproject\/wordpress\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Xem giỏ hàng","cart_url":"https:\/\/quoctoan0810.github.io\/QuocToann\/gio-hang\/","is_cart":"","cart_redirect_after_add":"yes"};
 </script>
@@ -930,45 +928,6 @@ var wc_cart_fragments_params = {"ajax_url":"\/myproject\/wordpress\/wp-admin\/ad
 <script src="https://quoctoan0810.github.io/QuocToann/wp-content/themes/storefront/assets/js/woocommerce/header-cart.min.js?ver=3.7.0" id="storefront-header-cart-js"></script>
 <script src="https://quoctoan0810.github.io/QuocToann/wp-content/themes/storefront/assets/js/footer.min.js?ver=3.7.0" id="storefront-handheld-footer-bar-js"></script>
 <script src="https://quoctoan0810.github.io/QuocToann/wp-includes/js/wp-embed.min.js?ver=5.7.2" id="wp-embed-js"></script>
-<script src="https://quoctoan0810.github.io/QuocToann/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.6" id="selectWoo-js"></script>
-<!-- WooCommerce JavaScript -->
-<script type="text/javascript">
-jQuery(function($) { 
-
-				jQuery( '.dropdown_product_cat' ).change( function() {
-					if ( jQuery(this).val() != '' ) {
-						var this_page = '';
-						var home_url  = 'https://quoctoan0810.github.io/QuocToann/';
-						if ( home_url.indexOf( '?' ) > 0 ) {
-							this_page = home_url + '&product_cat=' + jQuery(this).val();
-						} else {
-							this_page = home_url + '?product_cat=' + jQuery(this).val();
-						}
-						location.href = this_page;
-					} else {
-						location.href = 'https://quoctoan0810.github.io/QuocToann/cua-hang/';
-					}
-				});
-
-				if ( jQuery().selectWoo ) {
-					var wc_product_cat_select = function() {
-						jQuery( '.dropdown_product_cat' ).selectWoo( {
-							placeholder: 'Chọn danh mục',
-							minimumResultsForSearch: 5,
-							width: '100%',
-							allowClear: true,
-							language: {
-								noResults: function() {
-									return 'Không tìm thấy kết quả phù hợp';
-								}
-							}
-						} );
-					};
-					wc_product_cat_select();
-				}
-			
- });
-</script>
 
 </body>
 </html>

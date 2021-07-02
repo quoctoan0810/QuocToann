@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>user1 &#8211; Đồng Hồ</title>
+	<title>Nguyễn Quốc Toàn &#8211; Đồng Hồ</title>
 	<atom:link href="http://localhost/myproject/wordpress/author/user1/feed/" rel="self" type="application/rss+xml" />
 	<link>https://quoctoan0810.github.io/QuocToann</link>
 	<description>SHOP</description>
@@ -24,7 +24,7 @@
 		<link>https://quoctoan0810.github.io/QuocToann/khong-phan-loai/dong-ho-casio-g-shock/</link>
 					<comments>https://quoctoan0810.github.io/QuocToann/khong-phan-loai/dong-ho-casio-g-shock/#respond</comments>
 		
-		<dc:creator><![CDATA[user1]]></dc:creator>
+		<dc:creator><![CDATA[Nguyễn Quốc Toàn]]></dc:creator>
 		<pubDate>Tue, 15 Jun 2021 08:48:52 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
 		<guid isPermaLink="false">https://quoctoan0810.github.io/QuocToann/?p=176</guid>

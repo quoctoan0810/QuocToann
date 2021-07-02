@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/dong-ho-casio/feed/" rel="self" type="application/rss+xml" />
 	<link>https://quoctoan0810.github.io/QuocToann</link>
 	<description>SHOP</description>
-	<lastBuildDate>Fri, 02 Jul 2021 03:07:51 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 02 Jul 2021 03:28:31 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,40 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
+		<title>Đồng hồ Casio JK</title>
+		<link>https://quoctoan0810.github.io/QuocToann/sản%20phẩm/dong-ho-casio-jk/</link>
+					<comments>https://quoctoan0810.github.io/QuocToann/sản%20phẩm/dong-ho-casio-jk/#respond</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2021 03:18:18 +0000</pubDate>
+				<guid isPermaLink="false">https://quoctoan0810.github.io/QuocToann/?post_type=product&#038;p=203</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://quoctoan0810.github.io/QuocToann/sản%20phẩm/dong-ho-casio-jk/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Đồng hồ Casio FX</title>
+		<link>https://quoctoan0810.github.io/QuocToann/sản%20phẩm/dong-ho-casio-fx/</link>
+					<comments>https://quoctoan0810.github.io/QuocToann/sản%20phẩm/dong-ho-casio-fx/#respond</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2021 03:16:40 +0000</pubDate>
+				<guid isPermaLink="false">https://quoctoan0810.github.io/QuocToann/?post_type=product&#038;p=201</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://quoctoan0810.github.io/QuocToann/sản%20phẩm/dong-ho-casio-fx/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Đồng Hồ Casio-LW223</title>
 		<link>https://quoctoan0810.github.io/QuocToann/sản%20phẩm/dong-ho-casio-lw223/</link>
 					<comments>https://quoctoan0810.github.io/QuocToann/sản%20phẩm/dong-ho-casio-lw223/#respond</comments>

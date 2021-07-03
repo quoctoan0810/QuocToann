@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/dong-ho-rolex/feed/" rel="self" type="application/rss+xml" />
 	<link>https://quoctoan0810.github.io/QuocToann</link>
 	<description>SHOP</description>
-	<lastBuildDate>Sat, 03 Jul 2021 06:47:33 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 03 Jul 2021 07:11:25 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -66,6 +66,23 @@
 										<content:encoded><![CDATA[]]></content:encoded>
 					
 					<wfw:commentRss>https://quoctoan0810.github.io/QuocToann/product/dong-ho-rolex-fs/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Đồng hồ Rolex JHH</title>
+		<link>https://quoctoan0810.github.io/QuocToann/product/dong-ho-rolex-jhh/</link>
+					<comments>https://quoctoan0810.github.io/QuocToann/product/dong-ho-rolex-jhh/#respond</comments>
+		
+		<dc:creator><![CDATA[Nguyễn Quốc Toàn]]></dc:creator>
+		<pubDate>Sat, 03 Jul 2021 06:44:01 +0000</pubDate>
+				<guid isPermaLink="false">https://quoctoan0810.github.io/QuocToann/?post_type=product&#038;p=273</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://quoctoan0810.github.io/QuocToann/product/dong-ho-rolex-jhh/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
@@ -168,23 +185,6 @@
 										<content:encoded><![CDATA[]]></content:encoded>
 					
 					<wfw:commentRss>https://quoctoan0810.github.io/QuocToann/product/dong-ho-rolex-datejus/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Đồng hồ Rolex ETA</title>
-		<link>https://quoctoan0810.github.io/QuocToann/product/dong-ho-rolex-eta/</link>
-					<comments>https://quoctoan0810.github.io/QuocToann/product/dong-ho-rolex-eta/#respond</comments>
-		
-		<dc:creator><![CDATA[Nguyễn Quốc Toàn]]></dc:creator>
-		<pubDate>Fri, 02 Jul 2021 09:26:51 +0000</pubDate>
-				<guid isPermaLink="false">https://quoctoan0810.github.io/QuocToann/?post_type=product&#038;p=241</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>https://quoctoan0810.github.io/QuocToann/product/dong-ho-rolex-eta/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
